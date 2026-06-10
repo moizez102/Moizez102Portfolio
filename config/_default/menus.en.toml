@@ -17,8 +17,8 @@
 
 [[main]]
   name = "Blog"
-  pageRef = "posts"
-  weight = 10
+  pageRef = "post"
+  weight = 11
 
 #[[main]]
 #  name = "Parent"
