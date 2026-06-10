@@ -57,7 +57,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "https://scontent.fccs3-2.fna.fbcdn.net/v/t39.30808-6/487497105_1068477091971369_1132125253432453302_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SB-nadKh4G0Q7kNvwERt4lr&_nc_oc=AdrYjb_TKuelb0gUO68FTDuTeYd7_BVMgTvkz6iLxTi8kZuK1igf2NKmfpG0RT5RY84&_nc_zt=23&_nc_ht=scontent.fccs3-2.fna&_nc_gid=Q1R3Xwr1UEwfmgovHh9V3A&_nc_ss=7b2a8&oh=00_Af7py0v_8nqENEcw61nr6HmdsJ_v5QvpAXHW6jhGyffplg&oe=6A20799B" # used in: hero, and card
+  homepageImage = "FondoSky.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
