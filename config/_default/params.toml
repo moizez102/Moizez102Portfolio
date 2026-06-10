@@ -67,6 +67,18 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
+[Essays]
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "FondoSky.jpg" # used in: hero, and card
+  showRecent = false
+  showRecentItems = 5
+  showMoreLink = false
+  showMoreLinkDest = "/posts/"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true # only used when layout equals background
+  disableHeroImageFilter = false # only used when layout equals hero
+
 [article]
   showDate = true
   showViews = false

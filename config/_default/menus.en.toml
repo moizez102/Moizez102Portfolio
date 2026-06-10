@@ -12,13 +12,24 @@
 
 [[main]]
   name = "Essays"
-  pageRef = "posts"
+  pageRef = "Essays"
   weight = 10
 
 [[main]]
   name = "Blog"
-  pageRef = "post"
+  pageRef = "Blogs"
   weight = 11
+
+[[main]]
+  name = "Projects"
+  pageRef = "Projects"
+  weight = 5
+
+[[main]]
+  name = "Art"
+  pageRef = "Art"
+  weight = 5
+
 
 #[[main]]
 #  name = "Parent"
